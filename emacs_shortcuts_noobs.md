@@ -1,7 +1,7 @@
-#List of Emacs keyboard shortcuts for noobs :)
+# List of Emacs keyboard shortcuts for noobs :)
 
  
-##Operation on file :
+## Operation on file :
  Action      | Shortcut        |
 ------------ | --------------- |
  **Open**    | Ctrl-X, Ctrl-F	 
@@ -12,7 +12,7 @@
  **Exit**    | Ctrl-X, Ctrl-C
 	
  
-##File edition:
+## File edition:
   Action      | Shortcut        |
 ------------- | --------------- |
 **Undo**      | Ctrl-_
@@ -29,7 +29,7 @@
 **Delete Selection**|Ctrl-W	
 **Revert Buffer**|Meta-X, revert-buffer	
 
-##Searching
+## Searching
   Action      | Shortcut        |
 ------------- | --------------- |
 **Incremental Search**|Ctrl-S	
@@ -39,7 +39,7 @@
 **Interactive Search and Replace**|Meta-%	
 **Number**|Meta-X 	Goto Line 
 
-##Window
+## Window
   Action      | Shortcut        |
 ------------- | --------------- |
 **Close**|Ctrl-X, K
@@ -49,9 +49,9 @@
 **Split Horizontal**|Ctrl-X, 2
 **Split Vertical**|Ctrl-X, 3	
 **Switch Keyboard Focus**|Ctrl-X, O
-**Activate Menu Bar**|Meta-`
+**Activate Menu Bar**|Meta-\`
 
-##Formatting
+## Formatting
   Action      | Shortcut        |
 ------------- | --------------- |
 **Re-flow Paragraph**|Meta-Q	
@@ -62,14 +62,14 @@
 **Uppercase Selection**|Ctrl-X, Ctrl-U	
 **Lowercase Selection**|Ctrl-X, Ctrl-L	
 
-##MACROS
+## MACROS
   Action      | Shortcut        |
 ------------- | --------------- |
 **Start Recording**|Ctrl-X, (	
 **Stop Recording**|Ctrl-X, )	
 **Play Macro**|Ctrl-X, E	
 
-##Registers
+## Registers
   Action      | Shortcut        |
 ------------- | --------------- |
 **Copy Selection to Names Register**|Ctrl-X R S	
